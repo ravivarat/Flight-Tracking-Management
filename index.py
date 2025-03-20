@@ -1,9 +1,9 @@
 import mysql.connector
 
 # MySQL connection settings
-host = 'localhost'               # MySQL server
-user = 'root'                    # Your MySQL username
-password = 'Ravi@123'        # Your MySQL password
+host = 'localhost'               
+user = 'root'                    
+password = 'Ravi@123'       
 database = 'eu_flight_db'         # Your database name
 
 try:
