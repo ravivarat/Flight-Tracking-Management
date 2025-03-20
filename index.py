@@ -4,7 +4,7 @@ import mysql.connector
 host = 'localhost'               
 user = 'root'                    
 password = 'Ravi@123'       
-database = 'eu_flight_db'         # Your database name
+database = 'eu_flight_db'        
 
 try:
     # Connect to MySQL
@@ -13,7 +13,7 @@ try:
         user=user,
         password=password,
         database=database,
-        auth_plugin='mysql_native_password'  # Use this here
+        auth_plugin='mysql_native_password' 
     )
 
     print("✅ Connected to MySQL database successfully!")
@@ -28,7 +28,7 @@ try:
     for flight in flights:
         print(flight)
 
-    # Close the connection
+    # Close connection
     cursor.close()
     conn.close()
     print("\n✅ MySQL connection closed!")
