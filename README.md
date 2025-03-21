@@ -5,6 +5,10 @@
 A real-time flight tracking system using **Python, MySQL**, and the **AviationStack API**. This project fetches live flight data and stores it in a MySQL database, allowing you to query and analyze the flights.
 
 ![Description](./Img/1.jpg)
+![Description](./Img/2.jpg)
+![Description](./Img/3.jpg)
+![Description](./Img/4.jpg)
+
 
 ---
 
