@@ -64,7 +64,10 @@ A real-time flight tracking system using **Python, MySQL**, and the **AviationSt
 This project uses the [AviationStack API](https://aviationstack.com/) to fetch live flight data.  
 To get the data:
 1. Sign up at AviationStack and get your free API key.
-2. Replace the API key in the Python script:
+2. Replace the API key in the Python script.
+
+
+   
 
 
 ## 🔥 **SCREENSHOTS:**
