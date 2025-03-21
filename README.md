@@ -65,14 +65,11 @@ This project uses the [AviationStack API](https://aviationstack.com/) to fetch l
 To get the data:
 1. Sign up at AviationStack and get your free API key.
 2. Replace the API key in the Python script:
-```python
-API_KEY = "YOUR_API_KEY_HERE"
 
 
+## 🔥 **SCREENSHOTS:**
+ 
 
-
-
-SCREENSHOTS:
 
 
 
@@ -81,3 +78,8 @@ SCREENSHOTS:
 ![Description](./Img/2.jpg)
 ![Description](./Img/3.jpg)
 ![Description](./Img/4.jpg)
+
+
+
+
+
