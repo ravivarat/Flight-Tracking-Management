@@ -67,7 +67,7 @@ To get the data:
 2. Replace the API key in the Python script.
 
 
-   
+---
 
 
 ## 🔥 **SCREENSHOTS:**
